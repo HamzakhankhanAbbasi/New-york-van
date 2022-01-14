@@ -1,0 +1,801 @@
+@media only screen and (max-width:1440px){
+	/***** Index Page Responsive CSS Start *******/
+	.index-slide {
+		min-height: 650px;
+	}
+	.category-box .title {
+		font-size: 24px;
+	}
+	.category-detail .image img {
+		max-width: 90px;
+		min-height: 90px;
+		max-height: 90px;
+	}
+	.category-detail .content {
+		width: calc(100% - 120px);
+	}
+	.indexSec3-head p {
+		font-size: 40px;
+	}
+	.indexSec3-head span {
+		font-size: 40px;
+	}
+	.indexSec4-head p {
+		font-size: 100px;
+	}
+	.black-heading {
+		font-size: 50px;
+	}
+	.indexSec5-heading {
+		font-size: 24px;
+	}
+	.gold-heading {
+		font-size: 46px;
+	}
+	.middleText {
+		font-size: 32px;
+	}
+	.lastText {
+		font-size: 34px;
+	}
+	/***** Index Page Responsive CSS End *******/
+	/*book-online-start*/
+    	.passenger_wrap .number input {
+        height: 50px;
+        width: 50px;
+    }
+        .form_leftbtn .cta-btn {
+        width: 100%;
+    }
+	/*book-online-end*/
+}
+@media only screen and (max-width:1200px){
+	/***** Index Page Responsive CSS Start *******/
+	.main-nav {
+    	display: flex;
+    	align-items: center;
+    	justify-content: flex-end;
+	}
+	.main-nav .menu-toggle {
+    	width: 40px;
+    	height: 40px;
+    	background: #897042;
+	}
+	.main-nav  .menu-toggle span.bars {
+	    margin: 0 !important;
+	    display: flex;
+	    flex-direction: column;
+	    align-items: center;
+	    justify-content: center;
+	    top: 0 !important;
+	}
+	.main-nav .menu-toggle .bars span {
+    	background: #fff !important;
+    	width: 18px !important;
+    	height: 3px !important;
+	}
+	.main-nav.mobile.left>ul, .main-nav.mobile.right>ul {
+    	background: #192026 !important;
+	}
+	.main-nav.mobile ul {
+		background: #192026 !important;
+	}
+	.main-nav>ul>li>a {
+    	width: 100%;
+	}
+	.main-nav a.dd-toggle .icon-plus:after, .main-nav a.dd-toggle .icon-plus:before {
+		border-bottom: solid 3px #fff;
+	}
+	.main-nav .icon-close:after, .main-nav .icon-close:before {
+		border-bottom: solid 3px #fff;
+	}
+	.cta-btn {
+    	font-size: 16px;
+	}
+	.navContact-info .navNumber {
+    	font-size: 20px;
+	}
+	.navContact-info .navMail {
+    	font-size: 14px;
+	}
+	.index-slide {
+    	min-height: 600px;
+	}
+	.category-box .title {
+    	font-size: 22px;
+	}
+	.category-detail {
+		padding-right: 0;
+	}
+	.category-detail .content {
+    	width: calc(100% - 100px);
+	}
+	.index-sec3 {
+    	padding: 50px 0;
+	}
+	.index-sec3 .row {
+    	align-items: center;
+	}
+	.black-heading {
+    	font-size: 45px;
+	}
+	.indexSec5-heading {
+    	font-size: 20px;
+	}
+	.indexSec5-content {
+    	margin-top: 50px;
+	}
+	.fleet-detailBox .content p {
+    	font-size: 13px;
+	}
+	.quoteForm-box {
+    	padding: 0 20px;
+	}
+	.gold-heading {
+    	font-size: 40px;
+	}
+	.indexSec9-wrap .discount {
+    	font-size: 40px;
+	}
+	.indexSec9-wrap .detail p {
+	    font-size: 18px;
+	    max-width: 200px;
+	}
+	.indexSec8-wrap .head p {
+    	font-size: 50px;
+	}
+	.middleText {
+    	font-size: 28px;
+	}
+	.lastText {
+    	font-size: 30px;
+	}
+	.searchBox {
+		width: calc(100% - 450px);
+	}
+	.searchBox button {
+		padding: 25px 40px;
+	}
+	/***** Index Page Responsive CSS End *******/
+
+	/************* Services Page Responsive CSS Start *****************/
+	.listing li {
+    	font-size: 18px;
+	}
+	.service-card .image img {
+    	max-height: 250px;
+    	min-height: 250px;
+	}
+	.service-tags p {
+    	font-size: 14px;
+	}
+	.service-card .content {
+    	min-height: 210px;
+    	max-height: 210px;
+	}
+	.service-card .content .paraghraph {
+    	font-size: 14px;
+	}
+	/************* Services Page Responsive CSS End *****************/
+	/*book-online-responsive-start*/
+    	.passenger_wrap .number input {
+        height: 50px;
+        width: 50px;
+    
+    }
+	/*book-online-responsive-end*/
+}
+@media only screen and (max-width:1280px){
+        .passenger_wrap .number input {
+        height: 50px;
+        width: 65px;
+    }
+        .onlineform-wrap {
+        padding: 0px;
+    }
+}
+@media only screen and (max-width:1024px){
+	/***** Index Page Responsive CSS Start *******/
+	
+	/***** Index Page Responsive CSS End *******/
+	/*bookonline-start*/
+    	.childwrap .passenger_wrap .number .minus, .plus {
+        width: 40px;
+        height: 50px;
+      
+    }
+        .passenger_wrap .number input {
+        height: 50px;
+        width: 43px;
+    }
+           .profile-icon {
+        padding: 10px 8px;
+    }
+      
+	/*bookonlineend*/
+}
+@media only screen and (max-width:1025px){
+        .passenger_wrap .number input {
+        height: 50px;
+        width: 56px;
+    }
+     .map-image iframe {
+        height: 500px;
+        width: 100%;
+    }
+        .head-txt p {
+        font-size: 18px;
+    }
+}
+@media only screen and (max-width:991px){
+	/***** Index Page Responsive CSS Start *******/
+	.index-slide {
+    	min-height: 450px;
+	}
+	.fleet-detailBox .image img {
+    	max-width: 60px;
+	}
+	.index-sec5 {
+    	padding: 70px 0;
+	}
+	.mgb-8 {
+    	margin-bottom: 50px;
+	}
+	.indexSec5-image {
+    	margin: 0 0 0px;
+	}
+	.index-sec6 .row {
+    	align-items: center;
+	}
+	.index-sec6 .mgt-8 {
+    	margin-top: 0;
+	}
+	/***** Index Page Responsive CSS End *******/
+	/*book-online-start*/
+    	.childwrap .passenger_wrap .number .minus, .plus {
+        width: 26px;
+        height: 50px;
+    }
+        .passenger_wrap .number .minus, .plus {
+        width: 40px;
+        height: 50px;
+       
+    }
+        .reservation-form {
+        display: flex;
+        margin-bottom: 10px;
+        flex-direction: column;
+    }
+        .reservation-btn {
+        margin-top: 10px;
+    }
+        .passenger_wrap .number input {
+        height: 50px;
+        width: 30px;
+    }
+        .pickuptime {
+        margin-top: 12px;
+    }
+	/*book-online-end*/
+}
+@media only screen and (max-width:910px){
+	/***** Index Page Responsive CSS Start *******/
+	.logo img {
+    	max-width: 200px;
+	    object-fit: cover;
+	}
+	.index-slide h3 {
+		font-size: 36px;
+	}
+	.category-box .title {
+    	font-size: 16px;
+    	text-align: center;
+	}
+	.category-detail .content p {
+    	font-size: 14px;
+	}
+	.category-detail {
+    	flex-direction: column;
+    	text-align: center;
+	}
+	.category-detail .image {
+    	margin-bottom: 15px;
+	}
+	.category-detail .content {
+    	width: calc(100% - 0px);
+	}
+	.index-sec4 {
+		padding: 50px 0;
+	}
+	.indexSec4-head p {
+    	font-size: 80px;
+	}
+	.indexSec4-head span {
+    	font-size: 20px;
+    	max-width: 450px;
+	}
+	.black-heading {
+    	font-size: 36px;
+	}
+	.index-sec5 .row {
+    	align-items: center;
+	}
+	.indexSec5-content {
+    	margin-top: 30px;
+	}
+	.indexSec5-content .row {
+    	align-items: flex-start;
+	}
+	.indexSec6-image img {
+	    max-width: 100%;
+	    max-height: 350px;
+	    min-height: 350px;
+	}
+	.quoteForm-box {
+    	padding: 30px 20px;
+	}
+	.indexSec7-box span {
+    	font-size: 16px;
+    	font-weight: 700;
+	}
+	.index-sec8 {
+		min-height: 550px;
+	}
+	.mgt-8 {
+    	margin-top: 40px;
+	}
+	.middleText {
+    	font-size: 24px;
+	}
+	.lastText {
+    	font-size: 24px;
+	}
+	.index-sec10 {
+		min-height: 500px;
+	}
+	.index-sec11 {
+		min-height: 350px;
+	}
+	.middleText {
+    	font-size: 22px;
+    	margin: 20px 0;
+	}
+	.contactNumber a {
+		font-size: 40px;
+	}
+	.search-text span {
+		font-size: 14px;
+	}
+	.search-text p {
+    	font-size: 20px;
+	}
+	.searchBox {
+    	width: calc(100% - 350px);
+	}
+	.bl-1 {
+    	border: none;
+	}
+	.f-contactInfo-Box a {
+    	font-size: 14px;
+	}
+	/***** Index Page Responsive CSS End *******/
+
+	/******** Quote Modal Responsive CSS Start ********/
+	.quoteModal-title {
+    	font-size: 20px;
+	}
+	/******** Quote Modal Responsive CSS End ********/
+
+	/************* Services Page Responsive CSS Start *****************/
+	.listing {
+    	flex-wrap: wrap;
+	}
+	/******** Feed Gallery Modal Responsive CSS Start ********/
+	.galleryModal-image img {
+	    max-height: 350px;
+	    min-height: 350px;
+	}
+	/******** Feed Gallery Modal Responsive CSS End ********/
+	/*bookonlinestart*/
+    	.child-iconselect {
+        border:none;
+    }
+        .onlineform-wrap {
+        padding: 0px;
+    }
+
+
+	/*bookonlineend*/
+}
+@media only screen and (max-width:767px){
+	/***** Index Page Responsive CSS Start *******/
+	header {
+		padding-bottom: 0;
+	}
+	.navTop-buttons {
+    	display: none;
+	}
+	.navigation .row {
+    	align-items: center;
+	}
+	.navInner-wrap {
+		flex-direction: row;
+		max-width: 250px;
+		margin: 0 0 0 auto;
+		padding-top: 0;
+		min-height: 80px;
+	}
+	.index-slide {
+	    align-items: center;
+	    padding-top: 0;
+	    min-height: 350px;
+	}
+	.indexSec3-content {
+    	margin-bottom: 50px;
+	}
+	.indexSec3-button {
+    	margin: 30px 0 0;
+	}
+	.indexSec4-head p {
+    	font-size: 60px;
+	}
+	.black-heading {
+    	font-size: 30px;
+	}
+	.index-sec5 {
+	    padding: 30px 0;
+	}
+	.indexSec5-image {
+    	margin: 0 0 30px;
+	}
+	.indexSec5-image img {
+	    width: 100%;
+	    min-height: 500px;
+	    max-height: 500px;
+	    object-fit: cover;
+	}
+	.fleet-detailBox {
+    	border: none;
+	}
+	.fleet-detailBox .image img {
+    	max-width: 50px;
+	}
+	.fleet-detailBox .content p span {
+	    display: block;
+	}
+	.index-sec6 .black-heading {
+    	font-size: 34px;
+    	margin: 30px 0 0;
+	}
+	.gold-heading {
+    	font-size: 34px;
+	}
+	.index-sec8 {
+    	min-height: 500px;
+	}
+	.indexSec8-wrap .centerBox {
+		margin: 20px auto;
+	}
+	.index-sec9 {
+    	min-height: 200px;
+	}
+	.indexSec9-image {
+    	display: none;
+	}
+	.indexSec9-wrap .detail p {
+    	max-width: 270px;
+	}
+	.indexSec8-wrap .head p {
+    	font-size: 40px;
+	}
+	.lastText {
+    	font-size: 22px;
+    	margin-bottom: 30px;
+	}
+	.f-contactInfo-wrap {
+    	margin-top: 20px;
+	}
+	.searchBox-wrap {
+    	flex-direction: column;
+    	margin-bottom: 40px;
+	}
+	.searchBox {
+    	width: calc(100% - 0px);
+    	margin-top: 20px;
+	}
+	/***** Index Page Responsive CSS End *******/
+
+	/************* Services Page Responsive CSS Start *****************/
+	.inner-section1 {
+    	min-height: 300px;
+	}
+	.innerBanner-buttons {
+    	max-width: 320px;
+	}
+	/******  Inner Pages Responsive CSS Start******/
+	.inner-section2 {
+    	padding: 40px 0;
+	}
+	.innerSec2-image img {
+	    width: 100%;
+	    max-height: 500px;
+	    min-height: 500px;
+	    object-fit: cover;
+	    object-position: bottom center;
+	}
+
+	/***************** Feed Gallery Page CSS Start ********************/
+	.gallery-image {
+		min-height: 260px;
+    	max-height: 260px;
+	}
+	.gallery-image img {
+    	min-height: 250px;
+    	max-height: 250px;
+	}
+	/***************** Feed Gallery Page CSS End ********************/
+
+	/******** Feed Gallery Modal Responsive CSS Start ********/
+	.galleryModal .modal-body {
+    	padding: 15px;
+	}
+	.galleryModal .modal-title {
+    	font-size: 40px;
+	}
+	.galleryModal-image img {
+    	max-height: 250px;
+    	min-height: 250px;
+	}
+	/******** Feed Gallery Modal Responsive CSS End ********/
+	/*book-online-start*/
+    
+        .childwrap {
+        display: flex;
+        justify-content: flex-start;
+    }
+         .map-image iframe {
+        height: 300px;
+        width: 100%;
+    }
+        .form_rightwrap {
+        border-left: none;
+        margin-top: 51px;
+        padding:0px;
+    }
+	/*book-online-end*/
+}
+@media only screen and (max-width:575px){
+	/***** Index Page Responsive CSS Start *******/
+	.navTop {
+    	display: none;
+	}
+	.index-slide {
+    	min-height: 300px;
+    	background-position: center center;
+	}
+	.index-Sec1-carousel .owl-nav {
+	    width: 40%;
+	    top: unset;
+	    bottom: 5%;
+	}
+	.index-slide h3 {
+    	font-size: 24px;
+	}
+	.index-sec3 {
+    	padding: 30px 0;
+	}
+	.indexSec3-content {
+    	text-align: center;
+	}
+	.indexSec4-head p {
+    	font-size: 50px;
+	}
+	.indexSec4-image {
+    	margin: 30px 0;
+	}
+	.black-heading {
+    	font-size: 20px;
+	}
+	.indexSec5-image img {
+	    min-height: 350px;
+	    max-height: 350px;
+    	object-position: top center;
+	}
+	.mgb-8 {
+    	margin-bottom: 0;
+	}
+	.fleet-detailBox {
+    	margin-bottom: 30px;
+	}
+	.indexSec6-content .heading {
+    	font-size: 30px;
+	}
+	.indexSec6-image img {
+    	max-height: 300px;
+    	min-height: 300px;
+	}
+	.quoteForm-box {
+    	padding: 30px 0px;
+	}
+	.gold-heading {
+    	font-size: 30px;
+	}
+	.indexSec8-wrap .centerBox {
+    	font-size: 20px;
+    	width: 100%;
+	}
+	.indexSec8-wrap .bottomBox {
+    	font-size: 24px;
+    	margin: 0 0 30px;
+	}
+	/***** Index Page Responsive CSS End *******/
+
+	/************* Services Page Responsive CSS Start *****************/
+	.inner-bannerText .title {
+    	font-size: 30px;
+	}
+	.serviceSection2-content .paraghraph {
+	    padding: 30px 10px 0;
+	}
+	.secBottom-heading .black-heading {
+    	font-size: 30px;
+	}
+	/***** Inner Pages Responsive CSS Start *****/
+	.innerSec2-image img {
+	    max-height: 350px;
+	    min-height: 350px;
+	}
+	/***************** Feed Gallery Page CSS Start ********************/
+	.gallery-image {
+	    max-width: 250px;
+	    min-height: 240px;
+	    max-height: 240px;
+	    border: none;
+	    margin: 0 auto;
+	}
+	.gallery-image img {
+    	object-fit: contain;
+	}
+	/***************** Feed Gallery Page CSS End ********************/
+
+	/******** Feed Gallery Modal Responsive CSS Start ********/
+	.galleryModal .modal-title {
+    	font-size: 34px;
+    	text-align: center;
+	}
+	.galleryModal-image {
+    	border: none;
+    	max-width: 300px;
+    	margin: 0 auto;
+	}
+	/******** Feed Gallery Modal Responsive CSS End ********/
+	/*book-online-start*/
+    	 .map-image iframe {
+        height: 300px;
+        width: 100%;
+    }
+        .form_rightwrap {
+        border-left: none;
+        margin-top: 51px;
+        padding:0px;
+    }
+        .form_lefttext {
+        font-size: 16px;
+        font-weight: 400;
+        color: #000;
+    }
+	/*book-online-end*/
+}
+@media only screen and (max-width:385px){
+	/***** Index Page Responsive CSS Start *******/
+	.logo img {
+    	max-width: 150px;
+	}
+	.indexSec3-head p {
+	    font-size: 30px;
+	}
+	.indexSec3-head span {
+    	font-size: 30px;
+	}
+	.indexSec4-head span {
+    	font-size: 18px;
+    	max-width: 100%;
+	}
+	.indexSec4-head p {
+    	font-size: 40px;
+	}
+	.indexSec5-image img {
+	    min-height: 300px;
+	    max-height: 300px;
+	}
+	.indexSec6-content .heading {
+		font-size: 26px;
+		margin-bottom: 10px;
+	}	
+	.indexSec6-image img {
+    	max-height: 250px;
+    	min-height: 250px;
+	}
+	.index-sec6 .black-heading {
+    	font-size: 30px;
+    	margin: 10px 0 0;
+	}
+	.indexSec9-wrap {
+    	flex-direction: column;
+	}
+	.indexSec8-wrap .head p {
+    	font-size: 30px;
+	}
+	.middleText {
+    	font-size: 20px;
+    	margin: 10px 0;
+	}
+	.lastText {
+    	font-size: 20px;
+    	margin-bottom: 20px;
+	}
+	.contactNumber span {
+		font-size: 20px;
+	}
+	.contactNumber a {
+    	font-size: 30px;
+	}
+	.index-sec11 {
+    	min-height: 270px;
+	}
+	.searchBox button {
+    	padding: 20px 20px;
+	}
+	.footerSec2 p {
+	    font-size: 12px;
+	    margin-bottom: 20px;
+	}
+	.footerSec2-images img {
+    	max-width: 50px;
+	}
+	.footer-bottomBar p {
+    	font-size: 12px;
+    	padding: 0 10px;
+	}
+	.footer-bottomBar a {
+    	font-size: 14px;
+	}
+	/***** Index Page Responsive CSS End *******/
+
+	/***** Inner Pages Responsive CSS Start *****/
+	.innerSec2-image img {
+	    max-height: 300px;
+	    min-height: 300px;
+	}
+	/******** Contact US Page Responsive CSS Start ********/
+	.contact-heading {
+    	font-size: 28px;
+	}
+	/******** Contact US Page Responsive CSS End ********/
+	/*book-online-start*/
+          .map-image iframe {
+        height: 300px;
+        width: 100%;
+    }
+        .childwrap .passenger_wrap .number .minus, .plus {
+        width: 20px;
+        height: 50px;
+    }
+        .online-servicetype .input-field {
+        padding: 9px 0px;
+       
+    }
+        .resservation-btn1 .cta-btn {
+        padding: 10px 4px;
+    }
+     .resservation-btn2 .cta-btn {
+        padding: 10px 4px;
+    }
+        .form_lefttext {
+        font-size: 14px;
+        font-weight: 400;
+        color: #000;
+    }
+  
+	/*book-online-end*/
+}
